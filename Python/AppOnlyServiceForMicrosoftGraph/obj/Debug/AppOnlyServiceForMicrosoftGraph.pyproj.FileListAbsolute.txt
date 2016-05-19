@@ -1,0 +1,7 @@
+D:\SFC\OneCode\Samples\Dev\Other\41492\AppOnlyServiceForMicrosoftGraph\Python\AppOnlyServiceForMicrosoftGraph\bin\Microsoft.PythonTools.WebRole.dll
+D:\SFC\OneCode\Samples\Dev\Other\41492\AppOnlyServiceForMicrosoftGraph\Python\AppOnlyServiceForMicrosoftGraph\obj\Debug\attach_server.py
+D:\SFC\OneCode\Samples\Dev\Other\41492\AppOnlyServiceForMicrosoftGraph\Python\AppOnlyServiceForMicrosoftGraph\obj\Debug\visualstudio_py_debugger.py
+D:\SFC\OneCode\Samples\Dev\Other\41492\AppOnlyServiceForMicrosoftGraph\Python\AppOnlyServiceForMicrosoftGraph\obj\Debug\visualstudio_py_repl.py
+D:\SFC\OneCode\Samples\Dev\Other\41492\AppOnlyServiceForMicrosoftGraph\Python\AppOnlyServiceForMicrosoftGraph\obj\Debug\visualstudio_py_util.py
+D:\SFC\OneCode\Samples\Dev\Other\41492\AppOnlyServiceForMicrosoftGraph\Python\AppOnlyServiceForMicrosoftGraph\obj\Debug\__init__.py
+D:\SFC\OneCode\Samples\Dev\Other\41492\AppOnlyServiceForMicrosoftGraph\Python\AppOnlyServiceForMicrosoftGraph\obj\Debug\__main__.py
